@@ -1,4 +1,4 @@
-FungInfect	PlotRep	InsectCount	Rainfall
+FungInfect	PlotRep	InsectCount	Moisture
 0	0	729.5264952	44361.62507
 0	1	817.1804066	12106.1347
 0	0	1073.549164	31767.13895
