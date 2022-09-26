@@ -5,12 +5,14 @@ output:
 ---
 
 ---
-# AGST.Course: Introduction to agricultural statistcs
+# AGST.Course: Introduction to agricultural statistics
 
 ## Running R studio cloud
 Please make an Rstudio account and login here: https://rstudio.cloud/
 
 Also you can download and install Rstudio on your own computer: https://www.rstudio.com
+
+We will work with the console window in Rstudio for this excercise with logistic regression (described below)
 
 
 ## Installing R package AGST.Course from github
