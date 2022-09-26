@@ -7,6 +7,12 @@ output:
 ---
 # AGST.Course: Introduction to agricultural statistcs
 
+## Running R studio cloud
+Please make an Rstudio account and login here: https://rstudio.cloud/
+
+Also you can download and install Rstudio on your own computer: https://www.rstudio.com
+
+
 ## Installing R package AGST.Course from github
 The R package AGST.Course is freely available to download and distribute from github <https://github.com/radamsRHA/AGST.Course/>. To install and load ROBRT, you must first install the R package `devtools`, 
 
